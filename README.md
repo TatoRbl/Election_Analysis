@@ -16,18 +16,27 @@ A Colorado Board of Elections employee has given you the following task to compl
 
 ## Summary
 The analysis of the election show that
-There were X votes cast in the election
+There were 369,711 votes cast in the election
+With this 3 counties:
+   Jefferson
+   Denver
+   Arapahoe
+The biggest county with the most votes was
+   Denver with the 82.8% (306,055) of the votes
 The candidates were:
- Cand 1
- Cand 2
- Cand 3
+   Charles Casper Stockham
+   Diana DeGette
+   Raymon Anthony Doane:
 The candidate results were
- Cand R1
- Cand R2
- Cand R3
+   Charles Casper Stockham: 23.0% (85,213)
+   Diana DeGette: 73.8% (272,892)
+   Raymon Anthony Doane: 3.1% (11,606)
 The winner of the election was
-  Candidate who...
+  Candidate Diana DeGette with a total of 272,892 votes (73.8%)
   
 ## Challenge Overview
+
+   This easy and amazing code can be used by every one, just need to have the correct structure of database, with the county and the name of the candidate.
+   The result will be computed very fast and will give a summary with all the data of the votes by county and by candidate.
 
 ## Challenge Summary
