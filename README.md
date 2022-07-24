@@ -28,6 +28,6 @@ The candidate results were
 The winner of the election was
   Candidate who...
   
-##Challenge Overview
+## Challenge Overview
 
-##Challenge Summary
+## Challenge Summary
